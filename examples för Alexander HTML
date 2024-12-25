@@ -1,0 +1,17 @@
+    <nav class="navcontainer">
+      <div class="nav-item"><a href="#" class="active">Startsida</a></div>
+      <div class="nav-item"><a href="#">Produkter</a></div>
+      <div class="nav-item"><a href="omoss.html">Om oss</a></div>
+      <div class="nav-item">
+        <input
+          type="text"
+          name="searchbar"
+          id="navsearchbar"
+          placeholder="Sök..."
+        />
+      </div>
+      <div class="nav-item"><a href="#">Logga in</a></div>
+      <div class="nav-item">
+        <a href="#"><img src="ikoner/kassavagn ikon_1.png" alt="" /></a>
+      </div>
+    </nav>
